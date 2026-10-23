@@ -29,3 +29,5 @@ experiments, built on shared project templates and
 [Website](https://chrisstauffer.github.io) ·
 [Stauffer Labs](https://github.com/stauffer-labs) ·
 [X @thestauffer](https://x.com/thestauffer)
+
+🔒 [Overview](https://github.com/chrisstauffer/overview): private, visible only to me
